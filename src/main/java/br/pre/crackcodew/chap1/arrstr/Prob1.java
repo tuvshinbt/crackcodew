@@ -12,7 +12,7 @@ public class Prob1 {
 	public static void main(String[] args) {
 		Prob1 prob1 = new Prob1();
 		System.out.println("Result of isUniqueChars - " + prob1.isUniqueChars("abc"));
-		System.out.println("Result of isUniqueChars2 - " + prob1.isUniqueChars2("dca"));
+		System.out.println("Result of isUniqueChars2 - " + prob1.isUniqueChars2("abc"));
 	}
 
 	boolean isUniqueChars(String str) {
