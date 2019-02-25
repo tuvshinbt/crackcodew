@@ -17,7 +17,6 @@ public class Prob2 {
 		System.out.println(prob2.permutation(a, b));
 		Prob2Solution2 prob2Solution2 = new Prob2Solution2();
 		System.out.println(prob2Solution2.permutation(a, b));
-		
 	}
 
 	String sort(String s) {
