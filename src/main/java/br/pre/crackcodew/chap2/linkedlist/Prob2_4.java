@@ -10,8 +10,8 @@ import br.pre.crackcodew.lib.LinkedListNode;
  * in the "right partition"; it does not need to appear between the left and
  * right partitions.<br/>
  * EXAMPLE<br/>
- * Input: 3 -) 5 -) 8 -) 5 -) 113 -) 2 -) 1 [partition = 5]<br/>
- * Output: 3 -) 1 -) 2 -) 113 -) 5 -) 5 -) 8
+ * Input: 3 -) 5 -) 8 -) 5 -) 10 -) 2 -) 1 [partition = 5]<br/>
+ * Output: 3 -) 1 -) 2 -) 10 -) 5 -) 5 -) 8
  * 
  * @author bbadarch
  *
